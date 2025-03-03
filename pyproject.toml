@@ -1,0 +1,10 @@
+[project]
+name = "mc"
+version = "0.1.0"
+description = "Code for the paper 'Digitization of molecular complexity with machine learning'"
+authors = [
+    { name="Andrei Tyrin", email="tyrin.andr@gmail.com" }
+]
+
+[tool.setuptools]
+packages = ["mc"]
