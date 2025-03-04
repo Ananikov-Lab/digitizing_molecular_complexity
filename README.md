@@ -9,7 +9,7 @@ conda env create -f environment.yml
 conda activate mc
 pip install -e .
 ```
-To use the code you will also need to download the zip file containing all the relevant data from [here](https://drive.google.com/file/d/1vlHBtQqh2-CMav8x4edBPzyUXkq3BhMe/view?usp=sharing) and unzip it in the project's folder.
+To use the code you will also need to download the zip file containing all the relevant data from [here](https://drive.google.com/file/d/1JatMaqwZvjAmyE-rznIihQa6WF8U4poy/view?usp=sharing) and unzip it in the project's folder.
 ```bash
 unzip data.zip
 rm data.zip
