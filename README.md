@@ -1,6 +1,6 @@
 # Code for the paper "Digitization of molecular complexity with machine learning"
 
-This repository contains the code for the paper "Digitization of molecular complexity with machine learning".
+This repository contains the code for the paper ["Digitization of molecular complexity with machine learning"](https://doi.org/10.1039/D4SC07320G).
 
 ## Installation
 After cloning the repository, install conda environment with all the dependencies.
