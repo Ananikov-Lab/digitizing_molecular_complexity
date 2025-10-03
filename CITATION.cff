@@ -1,0 +1,12 @@
+@Article{D4SC07320G,
+author ="Tyrin, Andrei S. and Boiko, Daniil A. and Kolomoets, Nikita I. and Ananikov, Valentine P.",
+title  ="Digitization of molecular complexity with machine learning",
+journal  ="Chem. Sci.",
+year  ="2025",
+volume  ="16",
+issue  ="16",
+pages  ="6895-6908",
+publisher  ="The Royal Society of Chemistry",
+doi  ="10.1039/D4SC07320G",
+url  ="http://dx.doi.org/10.1039/D4SC07320G",
+abstract  ="Digitization of molecular complexity is of key importance in chemistry and life sciences to develop structure–activity relationships in chemical behavior and biological activity. The complexity of a given molecule compared to others is largely based on intuitive perception and lacks a standardized numerical measure. Quantifying molecular complexity remains a fundamental challenge{,} with key implications currently remaining controversial. In this study{,} we introduce a novel machine learning-based framework employing a Learning to Rank (LTR) approach to quantify molecular complexity on the basis of labeled data. As a result{,} we developed a ranking model utilizing the dataset that comprizes approximately 300 000 data points across diverse chemical structures{,} leveraging human expertise to capture complex decision rules that researchers intuitively use. Applications of our model in mapping the current organic chemistry landscape{,} analyzing FDA-approved drugs{,} guiding lead optimization processes{,} and interpreting total synthesis approaches reveal key trends in increasing molecular complexity and synthetic strategy evolution. Our study advances the methodologies available for quantifying molecular complexity{,} changing it from an elusive property to a numerical characteristic. With machine learning{,} we managed to digitize human perception of molecular complexity. Moreover{,} a corresponding large labeled dataset was produced for future research in this area."}
